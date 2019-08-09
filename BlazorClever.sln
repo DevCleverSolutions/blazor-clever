@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorClever.Server", "BlazorClever\BlazorClever.Server\BlazorClever.Server.csproj", "{387CA3D2-4B56-4036-AFE5-4D91C1DAA8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorClever.Client", "BlazorClever\BlazorClever.Client\BlazorClever.Client.csproj", "{2188B97D-E28B-497B-BC6F-B0559AF8FD86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorClever.Shared", "BlazorClever\BlazorClever.Shared\BlazorClever.Shared.csproj", "{FEE9413B-9478-4AB7-8CE3-8074301A024D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387CA3D2-4B56-4036-AFE5-4D91C1DAA8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387CA3D2-4B56-4036-AFE5-4D91C1DAA8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387CA3D2-4B56-4036-AFE5-4D91C1DAA8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387CA3D2-4B56-4036-AFE5-4D91C1DAA8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2188B97D-E28B-497B-BC6F-B0559AF8FD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2188B97D-E28B-497B-BC6F-B0559AF8FD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2188B97D-E28B-497B-BC6F-B0559AF8FD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2188B97D-E28B-497B-BC6F-B0559AF8FD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE9413B-9478-4AB7-8CE3-8074301A024D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE9413B-9478-4AB7-8CE3-8074301A024D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE9413B-9478-4AB7-8CE3-8074301A024D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE9413B-9478-4AB7-8CE3-8074301A024D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
